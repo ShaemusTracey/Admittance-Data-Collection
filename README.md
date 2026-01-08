@@ -35,3 +35,6 @@ Results stored in MATLAB workspace:
 - `V1`, `V2` - Voltage measurements from both channels
 - `T` - Time array
 - `raw_Data_CH1`, `raw_Data_CH2` - Raw oscilloscope data
+
+## Resources
+More infortmation about the project, electrical setup, and expected results can be found [here](https://shaemustracey.github.io/Admittance_Data_Collection_Page.html).
